@@ -66,3 +66,6 @@ A rough order of implementation:
 * pattern matching
 * type inference
 * Intermediate representation and optimizations
+
+# Note
+This project is originally from 2018. I'm only recently adding it to my GitHub.
